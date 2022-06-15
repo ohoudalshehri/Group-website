@@ -23,3 +23,7 @@ are caused by
    1. Section 1
    2. Section 2
 4. Philosophers Carpentry
+
+![Leeds University log](unileedslogo.png)
+
+University of Leeds, copyright University of Leeds 2022. 
